@@ -1,0 +1,43 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-image: url('https://thumbs.dreamstime.com/b/texture-green-bright-dense-carpet-background-green-carpet-texture-carpet-green-background-green-carpet-130535355.jpg');
+    background-size: cover;
+    font-size: 35px;
+    color: white;
+}
+
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el{
+    font-style: italic;
+}
+
+#button-1{
+    color: #016f32;
+    width:250px;
+    background-color: goldenrod;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: none;
+    font-weight: bold;
+    font-size: large;
+    margin-bottom: 4px;
+}
+#button-2{
+    color: #016f32;
+    width:250px;
+    background-color: goldenrod;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: none;
+    font-weight: bold;
+    font-size: large; 
+}
